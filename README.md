@@ -2,17 +2,19 @@
 Learnings about GITHUB and Licenses
 
 #GITHUB Introduction
-1.Create a respirotary file
-2.Use of README file
-3.
-4.
-5.
+Create a respirotary file
+Use of README file
+Save and edit the code
+Fork and merge the file
+
 
 #Licenses
-1.
-2.
-3.
-4.
-5.
+Choose any of the license
+It's not mandatory
+Each one have different conditions
+Easy to copy others code
 
-GOOD JOB
+
+
+
+                                                                              "GOOD JOB"
